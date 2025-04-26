@@ -1,4 +1,5 @@
 # Zomato Rating Prediction:
+Author - kodali varun
 ![zoma](https://user-images.githubusercontent.com/66827498/116952742-0350a780-aca9-11eb-95cd-34ae03998ae0.jpg)
 
 # Problem Statement
